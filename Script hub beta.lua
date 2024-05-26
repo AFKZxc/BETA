@@ -319,7 +319,7 @@ Tab:AddLabel("防击飞-防推飞-防死神-速度 Anti-strike flight-anti-push 
 Tab:AddLabel("关-无敌开-无敌关-全开-全关 Off-Invincible On-Invincible Off-All On-All Off")
 Tab:AddLabel("全开功能有:防编辑，防毒液，防黑洞，防死神 Full-open functions include: anti-editing, anti-venom, anti-black hole, and anti-death")
 Tab:AddLabel("防雷神，防rob，防秒杀手套，管理员预警，防踢 Anti-thor, anti-rob, anti-second kill gloves, administrator warning, anti-kick")
-
+    end
 })
 
 
